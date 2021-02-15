@@ -40,13 +40,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+Two parts of Express that I learned about is that it is kind of similar to React but for backend, and it makes running a server very simple.
+
 - [ ] Describe Middleware?
+
+Middleware is a kind of function or outside dependency that you run between your server code in order to achieve things like authentication.
 
 - [ ] Describe a Resource?
 
+A resource is something that we utilize to provide data to a client.
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+The API can return the object that was modified, or an ID on the object, or even just a message.
+
 - [ ] How can we partition our application into sub-applications?
+
+Through routing, we can split an application into may sub applications.
 
 ## Minimum Viable Product
 
